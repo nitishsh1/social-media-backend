@@ -1,4 +1,4 @@
-import MessageModel from '../models/MessageModel.js'
+import MessageModel from '../Models/MessageModel.js'
 
 
 //add messages
